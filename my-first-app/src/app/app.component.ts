@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'my-first-app';
   //new bransh 2
+  //merged master with bransh 2
 }
